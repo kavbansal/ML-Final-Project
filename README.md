@@ -4,3 +4,12 @@ For this project, we decided to apply 3 different models to assess the factors t
 
 To run this code, first download the dataset from https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf.
 Once this is done, ensure that Step 1 of the code has the correct file path. Once the file path is correct, everything should run in order within the notebook.
+
+References
+
+Similar study: An, Chansik, et al. “Machine Learning Prediction for Mortality of Patients Diagnosed with COVID-19: a Nationwide Korean Cohort Study.” Nature News, Nature Publishing Group, 30 Oct. 2020, www.nature.com/articles/s41598-020-75767-2. 
+
+Dataset we used: CDC Case Surveillance Task Force. “COVID-19 Case Surveillance Public Use Data.” Centers for Disease Control and Prevention, 8 Dec. 2020, data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf.
+
+Resource for latest metrics:“COVID-19 Map.” Johns Hopkins Coronavirus Resource Center, Johns Hopkins University & Medicine, 2020, coronavirus.jhu.edu/map.html. 
+
